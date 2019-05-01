@@ -3,3 +3,8 @@
 ucdok.com password
 
 print("好人一生平安")
+
+测试可能泄露配置信息的情况：
+jdbc:mysql://xxx.aliyuncs.com:3306/database
+user=root
+password=xxx
